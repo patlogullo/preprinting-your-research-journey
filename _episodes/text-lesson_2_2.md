@@ -1,7 +1,7 @@
 ---
 title: "Benefits: the easiest entry to open access - free to post, free to access"
 teaching: 15
-exercises: null
+exercises: 10
 duration: null
 summary: >
   Preprints are a free way to publish open access. How common and accessible
