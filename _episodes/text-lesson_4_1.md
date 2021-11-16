@@ -24,8 +24,8 @@ keypoints:
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
-day: 2
-order: 100000
+day: 1
+order: 600000
 missingDependencies: []
 dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
