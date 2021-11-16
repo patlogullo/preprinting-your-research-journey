@@ -4,6 +4,7 @@ teaching: 20
 exercises: 10
 duration: 30
 summary: Understand the concerns surrounding preprints and how to mitigate them.
+  The lack of peer review and its meaning.
 questions:
   - |
     How can you mitigate the risk of a preprint reaching the media?
