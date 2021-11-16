@@ -1,15 +1,17 @@
 ---
-title: How to share?
+title: How to deposit a preprint?
 teaching: 30
-exercises: 15
+exercises: 20
 duration: null
-summary: A guided walkthrough of preparing a manuscript for upload to a preprint server.
+summary: A guided and interactive walkthrough of preparing a manuscript for
+  upload to a preprint server.
 questions:
   - How to format a manuscript?
   - What file types are accepted?
   - How are images and graphs handled?
   - How are preprints linked to published versions of the manuscript?
   - How to handle feedback on a preprint?
+  - What are the main platforms available and the differences between them?
 objectives:
   - Learn how to prepare and upload a manuscript to a preprint server
   - Learn how to link the published version of a manuscript back to a preprint
