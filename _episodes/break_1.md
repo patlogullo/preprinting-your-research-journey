@@ -1,10 +1,14 @@
 ---
-title: Break
-teaching: null
-exercises: null
+title: "Dangers: care to be taken, regulations and risks"
+teaching: 20
+exercises: 10
 duration: 30
-summary: Allowing participants breaks helps everyone stay alert and focused.
-questions: null
+summary: Understand the concerns surrounding preprints and how to mitigate them.
+questions:
+  - |
+    How can you mitigate the risk of a preprint reaching the media?
+  - |
+    If the press contacts you about a preprint, how do you respond?
 objectives: null
 keypoints: null
 is-break: true
