@@ -1,24 +1,19 @@
 ---
 title: Introduction to preprints
 teaching: 10
-exercises: 20
+exercises: 10
 duration: null
-summary: An introduction to preprints, highlighting their benefits and
-  addressing concerns.
+summary: Traditional publishing, how preprints sit around it, definitions. A
+  short interaction with learners to see what they already know about preprints.
 questions:
   - What are preprints?
-  - What are the benefits of posting preprints?
-  - What concerns might researchers have about posting preprints?
+  - What is the difference between a paper published as a preprint and a journal
+    paper?
 objectives:
   - Learn what preprints are
-  - Understand how preprints can benefit science and individual researchers
-  - Understand the concerns surrounding preprints and how to mitigate them
 keypoints:
   - A preprint is an early version of a scholarly article that has not
     necessarily undergone peer review.
-  - Preprints benefit science by getting your work out there as soon as it's
-    ready, to reduce delays in knowledge sharing
-  - Preprints are a free way to publish open access
 is-break: null
 ukrn_wb_rules:
   - allow-multiple
