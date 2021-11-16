@@ -1,13 +1,17 @@
 ---
-title: Applying to your own workflow
-teaching: 30
-exercises: null
+title: Applying preprints to the research workflow
+teaching: 15
+exercises: 10
 duration: null
-summary: Consider how to apply posting preprints to your own research workflow.
+summary: "Consider how to plan the preprint deposit of your research in your
+  research journey: preprints in its various formats and moments (search
+  strategies, code, protocol, techniques and the study result itself)  "
 questions:
-  - Where to publish preprints?
+  - Why should I plan?
   - When to publish preprints?
+  - What pieces of my research can I preprint?
   - When to update preprints?
+  - What to do after journal publication
 objectives:
   - Identify where to publish preprints, when to publish, and when to update
 keypoints:
