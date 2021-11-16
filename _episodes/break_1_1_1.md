@@ -1,9 +1,9 @@
 ---
-title: Break
-teaching: null
+title: Lunch break
+teaching: 60
 exercises: null
-duration: 15
-summary: Short tea or coffee break.
+duration: null
+summary: Break for lunch
 questions: null
 objectives: null
 keypoints: null
