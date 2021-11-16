@@ -1,13 +1,14 @@
 ---
-title: Policies and Permissions
+title: "Benefits: the easiest entry to open access - free to post, free to access"
 teaching: 15
 exercises: null
 duration: null
-summary: Understanding journal and funder policies on preprints.
+summary: >
+  Preprints are a free way to publish open access. How common and accessible
+  they are.
 questions:
-  - Will posting a preprint affect publishing in other journals?
-  - What journals do and don't allow preprints?
-  - Do certain funders require research to be published as a preprint?
+  - Do academic journals allow you to preprint before submission?
+  - " Are preprint deposits accepted as research reports by funders?"
 objectives:
   - Understand journal policies around preprints
   - Understand funder policies around preprints
